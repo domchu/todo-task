@@ -547,16 +547,17 @@ body {
 }
 
 .addtask-modal {
-  width: 70%;
+  width: 22%;
   border-radius: 10px;
   background: #031956;
-  padding: 20px 15px;
+  padding: 6px 24px;
   text-align: center;
   color: #fff;
   -webkit-transform: scale(0);
           transform: scale(0);
   -webkit-transition: 0.7s;
   transition: 0.7s;
+  margin-top: 14px;
 }
 
 .addtask-modal h3 {
