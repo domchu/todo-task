@@ -228,6 +228,12 @@
   background: #7b96e8;
 }
 
+.menu-container .pic-nav .profile-pic {
+  width: 100%;
+  height: 100%;
+  border-radius: 50%;
+}
+
 .menu-container .menu-person-name {
   width: 100px;
   margin-top: 30px;
@@ -334,6 +340,12 @@ body {
 
 .todohead-title .right-icon i {
   margin: 0 10px;
+}
+
+.todohead-title .profile-pic {
+  width: 100%;
+  height: 100%;
+  border-radius: 50%;
 }
 
 .todo-category {

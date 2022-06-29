@@ -155,6 +155,11 @@ $bg-color: #98b5ff;
       border-radius: 100%;
       background: $color_3;
     }
+    .profile-pic {
+      width: 100%;
+      height: 100%;
+      border-radius: 50%;
+    }
   }
   .menu-person-name {
     width: 100px;
@@ -242,6 +247,11 @@ body {
     i {
       margin: 0 10px;
     }
+  }
+  .profile-pic {
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
   }
 }
 
